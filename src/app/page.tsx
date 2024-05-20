@@ -37,6 +37,8 @@ export default function Home() {
           height={37}
           priority
         />
+        
+        -- on Google Firebase
       </div>
 
       <div className={styles.grid}>
